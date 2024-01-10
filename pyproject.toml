@@ -1,6 +1,6 @@
 [tool.poetry]
-name = "pycounts"
-version = "0.1.0"
+name = "pycountsxch"
+version = "0.1.1"
 description = "Python package to count text"
 authors = ["Charles Xu"]
 license = "MIT"
