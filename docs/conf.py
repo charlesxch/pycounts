@@ -6,7 +6,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = u"pycounts"
+project = u"pycountsxch"
 copyright = u"2024, Charles Xu"
 author = u"Charles Xu"
 
